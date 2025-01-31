@@ -1,1 +1,2 @@
+# Kommentar
 print("Salamibrot!")
